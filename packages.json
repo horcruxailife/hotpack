@@ -1,0 +1,30 @@
+[
+  
+  {
+    "Id": "CONTACTSAMPLE1",
+    "Name": "聯絡我們範例程式",
+    "LastUpdate": "2020-05-19T12:34:56.4401946+08:00",
+    "Desc":"最簡單的基本外掛，下載馬上就可以用的聯絡我們",
+    "DemoSite": "https://pagedesignpro.com/wp-content/uploads/2017/12/wordpress-plugins-1024x576.jpg",
+    "DownloadPath": "https://github.com/scporgtw/nightmonkey_template/blob/master/contact1_sample.zip?raw=true",
+    "Image": "https://pagedesignpro.com/wp-content/uploads/2017/12/wordpress-plugins-1024x576.jpg"
+   },
+   {
+    "Id": "IDEATEMP2",
+    "Name": "樣板2",
+    "LastUpdate": "2020-10-04T12:34:56.4401946+08:00",
+    "Desc":"深色樣板，基於火鍋店創作的",
+    "DemoSite": "http://ideademo2.ina9.win/",
+    "DownloadPath": "https://github.com/horcruxtw/horcrux_packages/raw/main/IDATE_DEMO2_PACKAGE.zip",
+    "Image": "https://github.com/horcruxtw/horcrux_packages/blob/main/temp2.jpg?raw=true"
+  },
+  {
+    "Id": "IDEATEMP1",
+    "Name": "樣板1",
+    "LastUpdate": "2020-10-02T12:34:56.4401946+08:00",
+    "Desc":"淺色樣板，基於教育單位創作的",
+    "DemoSite": "http://ideademo.ina9.win/",
+    "DownloadPath": "https://github.com/horcruxtw/horcrux_packages/raw/main/IDATE_DEMO1_PACKAGE.zip",
+    "Image": "https://github.com/horcruxtw/horcrux_packages/blob/main/temp1.jpg?raw=true"
+  }
+]

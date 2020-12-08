@@ -15,8 +15,8 @@
     "LastUpdate": "2020-10-04T12:34:56.4401946+08:00",
     "Desc":"深色樣板，基於火鍋店創作的",
     "DemoSite": "http://ideademo2.ina9.win/",
-    "DownloadPath": "https://github.com/horcruxtw/horcrux_packages/raw/main/IDATE_DEMO2_PACKAGE.zip",
-    "Image": "https://github.com/horcruxtw/horcrux_packages/blob/main/temp2.jpg?raw=true"
+    "DownloadPath": "https://github.com/horcruxailife/hotpack/raw/main/IDATE_DEMO2_PACKAGE.zip",
+    "Image": "https://github.com/horcruxailife/hotpack/blob/main/temp2.jpg?raw=true"
   },
   {
     "Id": "IDEATEMP1",
@@ -24,7 +24,7 @@
     "LastUpdate": "2020-10-02T12:34:56.4401946+08:00",
     "Desc":"淺色樣板，基於教育單位創作的",
     "DemoSite": "http://ideademo.ina9.win/",
-    "DownloadPath": "https://github.com/horcruxtw/horcrux_packages/raw/main/IDATE_DEMO1_PACKAGE.zip",
-    "Image": "https://github.com/horcruxtw/horcrux_packages/blob/main/temp1.jpg?raw=true"
+    "DownloadPath": "https://github.com/horcruxailife/hotpack/raw/main/IDATE_DEMO1_PACKAGE.zip",
+    "Image": "https://github.com/horcruxailife/hotpack/blob/main/temp1.jpg?raw=true"
   }
 ]
